@@ -81,6 +81,7 @@
             android:text="4567.89 zł"
             android:textSize="30dp"
             android:textStyle="bold"
+            android:textColor="#334595"
             />
 
         <LinearLayout
